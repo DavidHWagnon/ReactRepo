@@ -10,7 +10,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <div className="transparent">
-          <img src={logo} className="App-logo" alt="logo" />
+          <img src={logo} className="App-logo" alt="logo" />.
           <p>
             Welcome to David Wagnon's personal website! Feel free to look around.
           </p>
@@ -21,7 +21,7 @@ function App() {
               target="_blank"
               rel="noopener noreferrer"
             >
-              <img className="social-logo" src={linkedinLogo}></img>
+              <img className="social-logo" src={linkedinLogo} alt="LinkedInhLogo"></img>
             </a>
             <a
               className="App-link"
@@ -29,7 +29,7 @@ function App() {
               target="_blank"
               rel="noopener noreferrer"
             >
-              <img className="social-logo" src={githubLogo}></img>
+              <img className="social-logo" src={githubLogo} alt="GithubLogo"></img>
             </a>
             <a
               className="App-link"
@@ -37,7 +37,7 @@ function App() {
               target="_blank"
               rel="noopener noreferrer"
             >
-              <img className="social-logo" src={twitterLogo}></img>
+              <img className="social-logo" src={twitterLogo} alt="TwitterLogo"></img>
             </a>
             <a
               className="App-link"
@@ -45,7 +45,7 @@ function App() {
               target="_blank"
               rel="noopener noreferrer"
             >
-              <img className="social-logo" src={twitchLogo}></img>
+              <img className="social-logo" src={twitchLogo} alt="TwitchLogo"></img>
             </a>
         </div>
         </div>
