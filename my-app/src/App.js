@@ -10,9 +10,9 @@ function App() {
     <div className="App">
       <header className="App-header">
         <div className="transparent">
-          <img src={logo} className="App-logo" alt="logo" />.
+          <img src={logo} className="App-logo" alt="logo" />
           <p>
-            Welcome to David Wagnon's personal website! Feel free to look around.
+            Welcome to the website of David Wagnon! Take your time and look around!
           </p>
           <div className="social-row">
             <a
