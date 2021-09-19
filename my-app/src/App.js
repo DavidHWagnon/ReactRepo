@@ -33,6 +33,14 @@ function App() {
             </a>
             <a
               className="App-link"
+              href="https://www.linkedin.com/in/david-wagnon-19036720b/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img className="social-logo" src={linkedinLogo} alt="LinkedInhLogo"></img>
+            </a>
+            <a
+              className="App-link"
               href="https://github.com/DavidHWagnon"
               target="_blank"
               rel="noopener noreferrer"
