@@ -25,7 +25,7 @@ function App() {
             </a>
             <a
               className="App-link"
-              href="https://www.linkedin.com/in/david-wagnon-19036720b/"
+              href="https://SlimGym.fun"
               target="_blank"
               rel="noopener noreferrer"
             >
